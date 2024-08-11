@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MUZAMMILPEER-PC</Machine>
+    <WindowsUser>MuzammilPeer</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>63FE2026BFDA260E43CD737C3C8049AD22068C31B4851A287C352E27F57BF155</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8789MuzammilPeer.InternetCafe_1.0.0.3_neutral__v0np7t21swd2y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8789MuzammilPeer.InternetCafe_v0np7t21swd2y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8789MuzammilPeer.InternetCafe</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=EAC3D6A4-20ED-4CA1-8A29-563B57EC3E59</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.3</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-08-04T08:54:48.076</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\InternetCafeApp.exe">
+      <PackagePath>InternetCafeApp.exe</PackagePath>
+      <Modified>2013-08-04T09:05:09.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\InternetCafeApp.pdb">
+      <PackagePath>InternetCafeApp.pdb</PackagePath>
+      <Modified>2013-08-04T09:05:09.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Callisto\1.3.1\References\CommonConfiguration\neutral\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+      <Modified>2013-08-04T08:50:41.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Public\Pictures\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2013-04-15T02:38:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Public\Pictures\WinRTXamlToolkit.Controls.DataVisualization.dll">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization.dll</PackagePath>
+      <Modified>2013-04-26T14:57:01.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Public\Pictures\WinRTXamlToolkit.Debugging.dll">
+      <PackagePath>WinRTXamlToolkit.Debugging.dll</PackagePath>
+      <Modified>2013-04-26T14:57:03.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Public\Pictures\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+      <Modified>2013-04-26T14:56:56.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Callisto\1.3.1\Redist\CommonConfiguration\neutral\Themes\Generic.xaml">
+      <PackagePath>Callisto\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-08-04T08:50:41.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\SQLite.WinRT\3.7.17\Redist\Retail\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2013-05-22T16:52:56.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\0.png">
+      <PackagePath>Assets\List\0.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\1.png">
+      <PackagePath>Assets\List\1.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\12.png">
+      <PackagePath>Assets\List\12.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\13.png">
+      <PackagePath>Assets\List\13.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\14.png">
+      <PackagePath>Assets\List\14.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\15.png">
+      <PackagePath>Assets\List\15.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\16.png">
+      <PackagePath>Assets\List\16.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\17.png">
+      <PackagePath>Assets\List\17.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\18.png">
+      <PackagePath>Assets\List\18.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\19.png">
+      <PackagePath>Assets\List\19.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\2.png">
+      <PackagePath>Assets\List\2.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.227</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\10.png">
+      <PackagePath>Assets\List\10.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\11.png">
+      <PackagePath>Assets\List\11.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\20.png">
+      <PackagePath>Assets\List\20.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\22.png">
+      <PackagePath>Assets\List\22.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\23.png">
+      <PackagePath>Assets\List\23.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\3.png">
+      <PackagePath>Assets\List\3.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\4.png">
+      <PackagePath>Assets\List\4.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\5.png">
+      <PackagePath>Assets\List\5.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\6.png">
+      <PackagePath>Assets\List\6.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\7.png">
+      <PackagePath>Assets\List\7.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\8.png">
+      <PackagePath>Assets\List\8.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\9.png">
+      <PackagePath>Assets\List\9.png</PackagePath>
+      <Modified>2013-04-28T10:37:37.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T09:22:23.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T09:22:34.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T09:22:44.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T09:22:55.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\Assets\List\21.jpg">
+      <PackagePath>Assets\List\21.jpg</PackagePath>
+      <Modified>2013-04-28T10:37:37.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-30T20:49:22.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-04-30T21:39:17.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-05-05T07:11:47.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\AddPayment.xaml">
+      <PackagePath>View\AddPayment.xaml</PackagePath>
+      <Modified>2013-05-05T13:41:54.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\AddReservation.xaml">
+      <PackagePath>View\AddReservation.xaml</PackagePath>
+      <Modified>2013-05-05T13:42:01.914</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\BlankPage1.xaml">
+      <PackagePath>View\BlankPage1.xaml</PackagePath>
+      <Modified>2013-04-26T11:27:15.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\ListRecords.xaml">
+      <PackagePath>View\ListRecords.xaml</PackagePath>
+      <Modified>2013-05-05T13:34:53.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\MaintainClient.xaml">
+      <PackagePath>View\MaintainClient.xaml</PackagePath>
+      <Modified>2013-04-28T10:09:31.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\MaintainRecord.xaml">
+      <PackagePath>View\MaintainRecord.xaml</PackagePath>
+      <Modified>2013-04-28T10:10:29.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\MaintainRoom.xaml">
+      <PackagePath>View\MaintainRoom.xaml</PackagePath>
+      <Modified>2013-05-05T13:41:45.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\Reports.xaml">
+      <PackagePath>View\Reports.xaml</PackagePath>
+      <Modified>2013-04-30T21:04:07.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\Settings.xaml">
+      <PackagePath>View\Settings.xaml</PackagePath>
+      <Modified>2013-04-30T21:33:05.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\View\SqliteSample.xaml">
+      <PackagePath>View\SqliteSample.xaml</PackagePath>
+      <Modified>2013-04-23T17:36:57.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MuzammilPeer\documents\visual studio 2012\Projects\InternetCafeApp\InternetCafeApp\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-08-04T08:54:47.118</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.51106.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.51106.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
